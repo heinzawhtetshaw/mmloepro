@@ -19,7 +19,7 @@
 "stime":"4",
 "sads":"open",
 "unity":"open",
-"admob":"open",
+"admob":"close",
 "interid":"ca-app-pub-6071800375227365/6675037642",
 "bannerid":"ca-app-pub-6071800375227365/9492772676",
 "rewardid":"ca-app-pub-6071800375227365/3857302611",
@@ -29,4 +29,4 @@
 "image":"open",
 "planb":"off",
 "mainadmob":"open",
-"banner":"open"}
+"banner":"close"}
